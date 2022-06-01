@@ -97,8 +97,4 @@ Possible features to add/improve within the app.
 
 ---
 
-_Feel free to contribute._
-
----
-
-Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
+Thank you
